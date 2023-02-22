@@ -8,7 +8,7 @@ pipeline {
                  }
                  stage('Two') {
                  steps {
-                    echo('Sample testing of Stage 2')
+                    echo('from Github acount')
                  }
                  }
                  stage('Three') {
