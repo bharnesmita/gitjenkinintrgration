@@ -6,7 +6,7 @@ pipeline {
                      echo 'Hi, welcome to pipeline demo...'
                  }
                  }
-                 stage('Two') {
+                 stage('from Github acount') {
                  steps {
                     echo('from Github acount')
                  }
